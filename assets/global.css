@@ -1,0 +1,30 @@
+.theme--light .v-input {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.0892857143em;
+    color: black;
+}
+
+.theme--light .v-label {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.0892857143em;
+    color: black !important;
+}
+.v-chip, .v-card__text {
+    overflow: visible !important
+}
+
+.v-slide-group__wrapper {
+    contain: none !important;
+    overflow: visible !important
+}
+
+input {
+    padding-bottom: 6px !important
+}
+
+input, .mdi-calendar, .v-input__append-inner {
+    cursor:pointer;
+    
+}
